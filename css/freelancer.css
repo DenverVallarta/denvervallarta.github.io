@@ -165,7 +165,7 @@ header.masthead {
   color: white;
   background: #18BC9C; }
   header.masthead img {
-    display: block;
+    display: circle;
     margin: 0 auto 20px; }
   header.masthead .intro-text .name {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
