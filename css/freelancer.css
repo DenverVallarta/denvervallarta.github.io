@@ -354,7 +354,7 @@ footer {
   border: solid 2px white;
   background: transparent; }
   .btn-outline.active, .btn-outline:active, .btn-outline:focus, .btn-outline:hover {
-    color: #18BC9C;
+    color: #3c0959;
     border: solid 2px white;
     background: white; }
 
@@ -399,8 +399,8 @@ footer {
 .btn-success {
   font-weight: 700;
   color: white;
-  border-color: #18BC9C;
-  background-color: #18BC9C; }
+  border-color: #3c0959;
+  background-color: #3c0959; }
   .btn-success.focus, .btn-success:focus {
     color: white;
     border-color: #0a4b3e;
@@ -428,10 +428,10 @@ footer {
   fieldset[disabled] .btn-success.focus,
   fieldset[disabled] .btn-success:focus,
   fieldset[disabled] .btn-success:hover {
-    border-color: #18BC9C;
-    background-color: #18BC9C; }
+    border-color: #3c0959;
+    background-color: #3c0959; }
   .btn-success .badge {
-    color: #18BC9C;
+    color: #3c0959;
     background-color: white; }
 
 .btn-social {
