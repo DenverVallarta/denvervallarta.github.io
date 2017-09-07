@@ -1,0 +1,43 @@
+body{
+	padding: 0;
+  	margin: 0;
+ 	background: #f7f7f7;
+ 	background: -webkit-linear-gradient(45deg, #f7f7f7 0%, #EAE0D5 100%);
+ 	background: linear-gradient(45deg, #f7f7f7 0%, #EAE0D5 100%);
+}
+
+.id-pic{
+	background-image: : center;
+}
+
+*{
+	font-family: Georgia;
+}
+
+h1{
+	color: #41292C;
+	text-align: center;
+}
+h2{
+	color:#5a4c45;
+}
+
+ul,li{
+	color:#674c45;
+}
+
+.details{
+	color:#6a4c45;
+	text-align: center;
+}
+
+.resume{
+	border-radius: 10px;
+ 	 border: 2px solid #FFF;
+  	border-color: #AF3432;
+  	border-top-width:10px;
+  	border-style: solid;
+  	margin: 60px auto;
+  	padding: 10px 0px 0px 0px;
+  	width: 90%;
+}
